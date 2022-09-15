@@ -39,6 +39,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sentirpasseul&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **sentirpasseul/sentirpasseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
