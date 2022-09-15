@@ -21,9 +21,7 @@
 ---
 
 ### :man_office_worker: About Me :
-
-
-### Hi there 👋
+  I am a Python Developer :snake:
 
 <!--
 **sentirpasseul/sentirpasseul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
