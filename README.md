@@ -13,6 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=sentirpasseul&style=flat-square&color=blue" alt=""/>
 </div>
   
+<div align="center">
+  <img src="https://www.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_6078373.htm" width="600" height="300"/>
+</div>  
+  
 ### Hi there 👋
 
 <!--
