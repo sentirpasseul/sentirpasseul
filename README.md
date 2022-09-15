@@ -20,7 +20,7 @@
   
 ---
 
-### :boy: About Me :
+### 🌱 About Me :
   I am a Python Developer :snake:
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
