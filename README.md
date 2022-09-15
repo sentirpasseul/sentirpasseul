@@ -6,6 +6,12 @@
   <a href="https://vk.com/sentir_passeul">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
+  <a href="https://www.kaggle.com/dmitriievdokimov">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://leetcode.com/sentir_passeul">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
 </div>
 
 <div id="views" align="center">
