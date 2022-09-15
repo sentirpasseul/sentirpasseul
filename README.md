@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://vk.com/sentir_passeul">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
 </div>
 
