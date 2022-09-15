@@ -19,8 +19,10 @@
 </div>
   
 <div align="center">
-  <img src="https://tenor.com/view/software-software-development-gif-24712790"/>
-</div>  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_office_worker: About Me :
 
 
 ### Hi there 👋
