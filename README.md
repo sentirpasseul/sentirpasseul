@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 About Me :
-  I am a Python Developer :snake::
+  I am a QA Engineer :snake::
 
 ---
 
